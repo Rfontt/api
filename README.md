@@ -24,6 +24,6 @@ npm install mysql2 --save ou yarn add mysql2  --save
 
 - [x] Integração com o banco de dados e criação dos models com o Sequelize.
 
-- [x] Pegar os dados que o usuário digitam e tranformá-los em json com o body-parser. 
+- [x] Pegar os dados que o usuário digita e tranformá-los em json com o body-parser. 
 
 - [x] Api pronta para o consumo de qualquer front-end.
